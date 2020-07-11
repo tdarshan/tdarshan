@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello Everyone,
+
+I am Darshan Trivedi, currently a student at Gujarat Technology University.
+
+I like web applications Development.
+I know basic HTML,CSS,JAVASCRIPT.
 
 <!--
 **tdarshan/tdarshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
