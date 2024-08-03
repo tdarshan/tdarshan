@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+JavaScript | Web | ReactJS   
+
+Engineering Grad 👨🏼‍🎓 - 2023 (IT Department - GTU)
+
+Problem Solving 👨🏼‍💻 : Leetcode | CodeChef   
+
 <!--
 **tdarshan/tdarshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
